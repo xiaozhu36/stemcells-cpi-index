@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="light-bosh-stemcell-3421.31-aws-xen-hvm-ubuntu-trusty-go_agent.tgz">
+    <hash type="sha-1">e47b63479c43df952fc0f29fc39706a3bfd5fe4e</hash>
+    <size>18936</size>
+    <url>https://s3.amazonaws.com/bosh-aws-light-stemcells/light-bosh-stemcell-3421.31-aws-xen-hvm-ubuntu-trusty-go_agent.tgz</url>
+  </file>
+  <generator>metalink.dpb587.github.io/0.0.0</generator>
+</metalink>
