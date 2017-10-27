@@ -5,5 +5,10 @@
     <size>18913</size>
     <url>https://s3.amazonaws.com/bosh-aws-light-stemcells/light-bosh-stemcell-3363.41-aws-xen-hvm-ubuntu-trusty-go_agent.tgz</url>
   </file>
+  <file name="light-bosh-stemcell-3363.41-google-kvm-ubuntu-trusty-go_agent.tgz">
+    <hash type="sha-1">b1dae81af72233801179737c408891b54592d283</hash>
+    <size>19297</size>
+    <url>https://s3.amazonaws.com/bosh-gce-light-stemcells/light-bosh-stemcell-3363.41-google-kvm-ubuntu-trusty-go_agent.tgz</url>
+  </file>
   <generator>metalink.dpb587.github.io/0.0.0</generator>
 </metalink>
