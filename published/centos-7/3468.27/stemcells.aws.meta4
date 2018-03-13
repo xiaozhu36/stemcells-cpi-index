@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="light-bosh-stemcell-3468.27-aws-xen-hvm-centos-7-go_agent.tgz">
+    <hash type="md5">3e012620d4f174445601abb298ee429d</hash>
+    <hash type="sha-1">0b33bd6cbb29f7df3bf1292d7cc2bf852ff0f2df</hash>
+    <hash type="sha-256">d24e557860a125c96b0d8fcef22173280e1e9cc50a5f6f9f8b45788e23c79589</hash>
+    <hash type="sha-512">15b1f266b99070f6a571a2d57c6fcc1059598c875572264f8a215798640e455caebd106a721c8539f1ab1970eb46c4ce11877dce91b573a9794d7bdc706bc53b</hash>
+    <size>18157</size>
+    <url>https://s3.amazonaws.com/bosh-aws-light-stemcells/light-bosh-stemcell-3468.27-aws-xen-hvm-centos-7-go_agent.tgz</url>
+    <version>3468.27</version>
+  </file>
+  <generator>metalink.dpb587.github.io/0.0.0</generator>
+</metalink>
