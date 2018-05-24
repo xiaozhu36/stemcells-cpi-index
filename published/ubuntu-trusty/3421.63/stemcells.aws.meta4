@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <metalink xmlns="urn:ietf:params:xml:ns:metalink">
   <file name="light-bosh-stemcell-3421.63-aws-xen-hvm-ubuntu-trusty-go_agent.tgz">
-    <hash type="md5">c0dd60d7de88b99fadb335943f374f30</hash>
-    <hash type="sha-1">9e5e04c84d57061e3c10b36b416d678f9c5eac4c</hash>
-    <hash type="sha-256">081c41f6058b4ab3d11176ce43ef3ba1875473c3d3f1ce59ced8a0fe31593f90</hash>
-    <hash type="sha-512">ab1687527b0a2200d1f80d82ea5a501c609160306e1630feeaa58dced100294622a9ba2388292c3e318cad28fa677a4292d719cb76178b3c9ee0dac883880f9e</hash>
-    <size>19092</size>
+    <hash type="md5">ec7003f557adc83b68cc7be2ca179f1b</hash>
+    <hash type="sha-1">f6c8ed07dd4f3f6b345adce9a191f738d0a135e0</hash>
+    <hash type="sha-256">3767366429e44fe19ab9a964e1bcf55a2a272b97440adab9d16c23360d9c4773</hash>
+    <hash type="sha-512">9a67bd485c3959a9ad16a6fdc3dde17d2849bc3bb8c5305badda67e32c398977414f0b91c62aabd0ee6c3922ab06273dfe53d56e63484635cf2857be2df56112</hash>
+    <size>19093</size>
     <url>https://s3.amazonaws.com/bosh-aws-light-stemcells/light-bosh-stemcell-3421.63-aws-xen-hvm-ubuntu-trusty-go_agent.tgz</url>
     <version>3421.63</version>
   </file>
