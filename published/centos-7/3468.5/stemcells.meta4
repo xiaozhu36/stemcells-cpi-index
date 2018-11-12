@@ -4,6 +4,7 @@
     <hash type="sha-1">8beafed3859a0cd69ad1c25d94dc1063ba0d70a3</hash>
     <size>18092</size>
     <url>https://s3.amazonaws.com/bosh-aws-light-stemcells/light-bosh-stemcell-3468.5-aws-xen-hvm-centos-7-go_agent.tgz</url>
+    <version>3468.5</version>
   </file>
   <generator>metalink.dpb587.github.io/0.0.0</generator>
 </metalink>

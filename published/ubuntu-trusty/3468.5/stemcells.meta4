@@ -4,11 +4,13 @@
     <hash type="sha-1">cb4f2f51ff75b9b21429de2498ecc97b1c3a1ba2</hash>
     <size>18951</size>
     <url>https://s3.amazonaws.com/bosh-aws-light-stemcells/light-bosh-stemcell-3468.5-aws-xen-hvm-ubuntu-trusty-go_agent.tgz</url>
+    <version>3468.5</version>
   </file>
   <file name="light-bosh-stemcell-3468.5-google-kvm-ubuntu-trusty-go_agent.tgz">
     <hash type="sha-1">53cc03a3ab829f8538b527f3c7c02b2340897aa4</hash>
     <size>19305</size>
     <url>https://s3.amazonaws.com/bosh-gce-light-stemcells/light-bosh-stemcell-3468.5-google-kvm-ubuntu-trusty-go_agent.tgz</url>
+    <version>3468.5</version>
   </file>
   <generator>metalink.dpb587.github.io/0.0.0</generator>
 </metalink>
