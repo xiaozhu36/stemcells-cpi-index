@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="light-bosh-stemcell-250.38-alicloud-kvm-ubuntu-xenial-go_agent.tgz">
+    <hash type="md5">a1b20979ade27132a8389aa068f4e766</hash>
+    <hash type="sha-1">55355669ee2629cfd009ea7e31c0257e589a72cf</hash>
+    <hash type="sha-256">4cfd7c5a1bceb5396ee0add868c3cc48d4caa863f56dd28df1bda2431786a077</hash>
+    <hash type="sha-512">c6b83c9a7dd304d9f80c2ecb93d1d934179d62dff78da5488fd7c79cc492696c1146735571f4b4918757c2dfd5c02218a744bc501dee7747608d562605f42d38</hash>
+    <size>19679</size>
+    <url>https://s3.amazonaws.com/bosh-io-stemcell/light-bosh-stemcell-250.38-alicloud-kvm-ubuntu-xenial-go_agent.tgz</url>
+    <version>250.38</version>
+  </file>
+  <generator>metalink.dpb587.github.io/0.0.0</generator>
+</metalink>
